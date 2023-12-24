@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/95/64.m3u8</location>
+			<title>北京音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/964/64.m3u8</location>
+			<title>959年代音乐怀旧好声音</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/2068/64.m3u8</location>
+			<title>流行音乐广播999正青春</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/494/64.m3u8</location>
+			<title>河北音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/504/64.m3u8</location>
+			<title>石家庄音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/522/64.m3u8</location>
+			<title>秦皇岛体育音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1125/64.m3u8</location>
+			<title>邯郸音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/886/64.m3u8</location>
+			<title>山西音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/2041/64.m3u8</location>
+			<title>长治FM98.0都市音乐之声</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1103/64.m3u8</location>
+			<title>包头汽车音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/434/64.m3u8</location>
+			<title>吉林音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/386/64.m3u8</location>
+			<title>哈尔滨音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/379/64.m3u8</location>
+			<title>黑龙江音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/538/64.m3u8</location>
+			<title>江苏经典流行音乐</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/65/64.m3u8</location>
+			<title>苏州音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/537/64.m3u8</location>
+			<title>江苏音乐广播PlayFM89.7</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/71/64.m3u8</location>
+			<title>南京音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/742/64.m3u8</location>
+			<title>南通音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/80/64.m3u8</location>
+			<title>常州音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/561/64.m3u8</location>
+			<title>无锡音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/637/64.m3u8</location>
+			<title>浙江音乐调频</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/642/64.m3u8</location>
+			<title>温州私家车音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/651/64.m3u8</location>
+			<title>嘉兴音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/660/64.m3u8</location>
+			<title>宁波音乐广播私家车986</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/668/64.m3u8</location>
+			<title>台州音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/684/64.m3u8</location>
+			<title>舟山交通音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/670/64.m3u8</location>
+			<title>FM103.5绍兴音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/136/64.m3u8</location>
+			<title>安徽音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/143/64.m3u8</location>
+			<title>安徽潮流音乐电台</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/608/64.m3u8</location>
+			<title>江西音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/618/64.m3u8</location>
+			<title>南昌交通音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/802/64.m3u8</location>
+			<title>山东经典音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/794/64.m3u8</location>
+			<title>山东音乐频道</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/799/64.m3u8</location>
+			<title>济南音乐广播Music88.7</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/2152/64.m3u8</location>
+			<title>烟台音乐广播FM105.9</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/829/64.m3u8</location>
+			<title>FM107.2旅游音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/812/64.m3u8</location>
+			<title>FM91.5时尚音乐调频</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/856/64.m3u8</location>
+			<title>德州交通音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/468/64.m3u8</location>
+			<title>流行音乐先锋FM90.0 My Radio</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/465/64.m3u8</location>
+			<title>河南音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/493/64.m3u8</location>
+			<title>洛阳音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/475/64.m3u8</location>
+			<title>郑州音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/2128/64.m3u8</location>
+			<title>民谣音乐台</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/2124/64.m3u8</location>
+			<title>格莱美音乐台</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/708/64.m3u8</location>
+			<title>楚天音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/709/64.m3u8</location>
+			<title>湖北经典音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/715/64.m3u8</location>
+			<title>武汉经典音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/731/64.m3u8</location>
+			<title>十堰交通音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/733/64.m3u8</location>
+			<title>荆门交通音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1434/64.m3u8</location>
+			<title>恩施电台交通音乐频率 FM94</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/401/64.m3u8</location>
+			<title>长沙品味音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1182/64.m3u8</location>
+			<title>衡阳FM105.6音乐电台</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/2085/64.m3u8</location>
+			<title>常德音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/966/64.m3u8</location>
+			<title>怀集音乐之声</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/74/64.m3u8</location>
+			<title>广东音乐之声</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1205/64.m3u8</location>
+			<title>怀集音乐之声第二台</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/257/64.m3u8</location>
+			<title>广州汽车音乐电台</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1215/64.m3u8</location>
+			<title>东莞音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/301/64.m3u8</location>
+			<title>FM950广西音乐台</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/131/64.m3u8</location>
+			<title>重庆音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/787/64.m3u8</location>
+			<title>泸州音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/772/64.m3u8</location>
+			<title>南充交通音乐广播FM91.5</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1003/64.m3u8</location>
+			<title>亚洲音乐成都FM96.5</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/763/64.m3u8</location>
+			<title>年代音乐88.9&amp;103.2</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/770/64.m3u8</location>
+			<title>攀枝花交通音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1243/64.m3u8</location>
+			<title>绵阳音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/2139/64.m3u8</location>
+			<title>乐山广播电视台音乐交通广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1580/64.m3u8</location>
+			<title>南部交通音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/904/64.m3u8</location>
+			<title>云南音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/867/64.m3u8</location>
+			<title>陕西音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1442/64.m3u8</location>
+			<title>西安音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/881/64.m3u8</location>
+			<title>安康交通旅游音乐广播</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1011/64.m3u8</location>
+			<title>清晨音乐台</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/764/64.m3u8</location>
+			<title>AsiaFM亚洲音乐台</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1427/64.m3u8</location>
+			<title>AsiaFM HD音乐台</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.ximalaya.com/radio-first-page-app/live/1027/64.m3u8</location>
+			<title>乐享音乐</title>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+	</extension>
+</playlist>

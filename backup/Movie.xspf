@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8</location>
+			<title>NewTV超级电影 (1080p)</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8</location>
+			<title>新昌休闲影视 (1080p)</title>
+			<duration>24000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8</location>
+			<title>浙江教科影视 (1080p)</title>
+			<duration>24000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8</location>
+			<title>NewTV军旅剧场 (1080p)</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8</location>
+			<title>Bravo Inc.</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8</location>
+			<title>Bravo Inc.</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8</location>
+			<title>Bravo Inc.</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8</location>
+			<title>Bravo Inc.</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8</location>
+			<title>NewTV超级电视剧 (1080p)</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://117.169.124.37:6610/ysten-businessmobile/live/junlvjc/yst.m3u8</location>
+			<title>Bravo Inc.</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://117.169.124.37:6610/ysten-businessmobile/live/guzhuangjc/yst.m3u8</location>
+			<title>Bravo Inc.</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://117.169.124.37:6610/ysten-businessmobile/live/jiatingjc/yst.m3u8</location>
+			<title>Bravo Inc.</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://117.169.124.37:6610/ysten-businessmobile/live/xiqumd/yst.m3u8</location>
+			<title>Bravo Inc.</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://117.169.124.37:6610/ysten-businessmobile/live/jdaju/yst.m3u8</location>
+			<title>Bravo Inc.</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+	</extension>
+</playlist>

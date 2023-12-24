@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8</location>
+			<title>东南卫视 (1080p)</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8</location>
+			<title>东方卫视 (1080p)</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8</location>
+			<title>北京卫视 (1080p)</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8</location>
+			<title>天津卫视 (1080p)</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8</location>
+			<title>安徽卫视 (1080p)</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8</location>
+			<title>山东卫视 (1080p)</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8</location>
+			<title>广东卫视 (1080p)</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8</location>
+			<title>江苏卫视 (1080p)</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8</location>
+			<title>江西卫视 (1080p)</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8</location>
+			<title>浙江卫视 (1080p)</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8</location>
+			<title>湖北卫视 (1080p)</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8</location>
+			<title>湖南卫视 (1080p)</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8</location>
+			<title>重庆卫视 (1080p)</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8</location>
+			<title>黑龙江卫视 (1080p)</title>
+			<duration>90000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+	</extension>
+</playlist>
